@@ -1,0 +1,33 @@
+
+body{
+    color:whitesmoke;
+}
+
+.col-4{
+    color:whitesmoke;
+}
+
+/*Unvisited Link*/
+a:link {
+    color: whitesmoke;
+  }
+  
+  /*Visited Link*/
+  a:visited {
+    color: whitesmoke;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: whitesmoke;
+  }
+  
+  /* selected link */
+  a:active {
+    color:whitesmoke;
+  }
+
+  .inner{
+    border-style:solid;
+    border-color:#89cff0;
+  }
